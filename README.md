@@ -1,2 +1,2 @@
-# AirBNB-Price-Estimation
-Analyzing AirBNB data to predict the prices of AirBNB rentals in and around New York City
+# AirBnB-Price-Estimation
+Analyzing AirBnB data to predict the prices of AirBnB rentals in and around New York City
